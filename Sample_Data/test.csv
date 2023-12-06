@@ -1,0 +1,57 @@
+proj_id,Reservoir Formation Name(s),Reservoir Predominant Rock Type,Please Specify Reservoir Predominant Rock Type?,Primary Seal Formation Name,Primary Seal Predominant Rock Type,Please Specify Primary Seal Predominant Rock Type,Secondary Seal Predominant Rock Type,Please Specify Secondary Seal Predominant Rock Type,Baseline Characterization Methods,Please Specify Baseline Characterization Methods,Depth of Top of Injection Zone (ft),"Depth to base of 10,000 ppm groundwater (ft), if known",Mean Net Vertical Thickness of Injection Intervals within Storage Complex (ft),Number of injection intervals within injection zone,Minimum Frac Pressure for the Injection Zone (psi),Baseline Pressure (psi),Proposed Maximum Injection Pressure (psi),Maximum Injection Rate for Storage Complex (MMt/yr)
+0,,,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,,,
+1,Gatsby Formation,Siltstone,,Katness Siltstone,Siltstone,,Shale/mudstone,,"Passive Seismic
+VSP
+Other",Tapping,360,1200,250,5,52,78,102,14
+1,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,
+2,Gatsby Formation,Siltstone,,Katness Siltstone,Siltstone,,Shale/mudstone,,"Passive Seismic
+VSP
+Other",Tapping,360,1200,250,5,52,78,102,14
+2,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,
+3,Minnelusa Formation,Sandstone,,"Cretaceous shale mega-seal group (Pierre, Cody, Niobrara, Carlile, Greenhorn, Belle Fourche, Mowry, and Skull Creek shales)",Shale/mudstone,,,,Test Well,,2845,1110,46,,,,,
+3,"Lower Sundance Formation, Hulett member",Sandstone,,Intermediate seal group (Morrison and Upper Sundance formations),Shale/mudstone,,,,,,2522,1110,29,0,,,,
+3,"Lakota/Fall River Group - conglomerate, siltstone, mudstone, and sandstone (sandstone is target)",Sandstone,,"Jurassic-Triassic-Permian mega-seal group (Stockade Beaver Shale, Spearfish and Goose Egg formations, and the Opeche Shale)",Shale/mudstone,,,,,,2438,1110,23,,,,,
+3,,,,,,,,,,,,,,,,,,
+4,Minnelusa Formation,Sandstone,,"Cretaceous shale mega-seal group (Pierre, Cody, Niobrara, Carlile, Greenhorn, Belle Fourche, Mowry, and Skull Creek shales)",Shale/mudstone,,,,Test Well,,9335,1110,150,,,,,
+4,"Lower Sundance Formation, Hulett member",Sandstone,,Intermediate seal group (Morrison and Upper Sundance formations),Shale/mudstone,,,,,,8274,1110,96,,,,,
+4,"Lakota/Fall River Group - conglomerate, siltstone, mudstone, and sandstone (sandstone is target)",Sandstone,,"Jurassic-Triassic-Permian mega-seal group (Stockade Beaver Shale, Spearfish and Goose Egg formations, and the Opeche Shale)",Shale/mudstone,,,,,,8000,1110,76,,,,,
+4,,,,,,,,,,,,,,,,,,
+5,Minnelusa Formation,Sandstone,,"Cretaceous shale mega-seal group (Pierre, Cody, Niobrara, Carlile, Greenhorn, Belle Fourche, Mowry, and Skull Creek shales)",Shale/mudstone,,,,Test Well,,9335,1110,150,,,,,
+5,"Lower Sundance Formation, Hulett member",Sandstone,,Intermediate seal group (Morrison and Upper Sundance formations),Shale/mudstone,,,,,,8274,1110,96,,,,,
+5,"Lakota/Fall River Group - conglomerate, siltstone, mudstone, and sandstone (sandstone is target)",Sandstone,,"Jurassic-Triassic-Permian mega-seal group (Stockade Beaver Shale, Spearfish and Goose Egg formations, and the Opeche Shale)",Shale/mudstone,,,,,,8000,1110,76,,,,,
+5,,,,,,,,,,,,,,,,,,
+6,Minnelusa Formation,Sandstone,,"Cretaceous shale mega-seal group (Pierre, Cody, Niobrara, Carlile, Greenhorn, Belle Fourche, Mowry, and Skull Creek shales)",Shale/mudstone,,,,,,9335,,150,,,,,
+6,"Lower Sundance Formation, Hulett member",Sandstone,,Intermediate seal group (Morrison and Upper Sundance formations),Shale/mudstone,,,,,,8274,,96,,,,,
+6,"Lakota/Fall River Group - conglomerate, siltstone, mudstone, and sandstone (sandstone is target)",Sandstone,,"Jurassic-Triassic-Permian mega-seal group (Stockade Beaver Shale, Spearfish and Goose Egg formations, and the Opeche Shale)",Shale/mudstone,,,,,,8000,,76,,,,,
+6,,,,,,,,,,,,,,,,,,
+7,Potosi Dolomite,Carbonate,,Maquoketa Group,Shale/mudstone,,,,Test Well,,1334,,,,,,,
+7,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,
+9,Batakin,Shale,,Filler Name,Siltstone,,,,,,1050,,32,3,23,14,55,3.3
+9,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,
+9,Strong,Siltstone,,Kautz,Shale/mudstone,,,,,,2023,,43,4,43,12,65,2.3
+10,Potosi Dolomite,Other,Dolomite,Maquoketa Group,Shale/mudstone,,,,,,4505,,20,1,3260,1955,,1.67
+10,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,
+11,Minnelusa Formation,Sandstone,,"Cretaceous shale mega-seal group (Pierre, Cody, Niobrara, Carlile, Greenhorn, Belle Fourche, Mowry, and Skull Creek shales)",Shale/mudstone,,,,,,9335,,150,5,45474,0.43,0.67,1.95
+11,"Lower Sundance Formation, Hulett Member",Sandstone,,Intermediate seal group (Morrison and Upper Sundance formations),Shale/mudstone,,,,,,8274,,96,2,41453,0.43,1.31,1.95
+11,Lakota/Fall River Group,Sandstone,,"Jurassic-Triassic-Permian mega-seal group (Stockade Beaver Shale, Spearfish and Goose Egg formations, and the Opeche Shale)",Shale/mudstone,,,,,,8000,,76,1,21637,0.43,8.85,1.95
+11,,,,,,,,,,,,,,,,,,
+12,Minnelusa Formation,Sandstone,,"Cretaceous shale mega-seal group (Pierre, Cody, Niobrara, Carlile, Greenhorn, Belle Fourche, Mowry, and Skull Creek shales)",Shale/mudstone,,,,,,9335,,150,,,,,
+12,"Lower Sundance Formation, Hulett member",Sandstone,,Intermediate seal group (Morrison and Upper Sundance formations),Shale/mudstone,,,,,,8274,,96,,,,,
+12,"Lakota/Fall River Group - conglomerate, siltstone, mudstone, and sandstone (sandstone is target)",Sandstone,,"Jurassic-Triassic-Permian mega-seal group (Stockade Beaver Shale, Spearfish and Goose Egg formations, and the Opeche Shale)",Shale/mudstone,,,,,,8000,,76,,,,,
+12,,,,,,,,,,,,,,,,,,
