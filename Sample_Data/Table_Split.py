@@ -10,8 +10,8 @@ print("current time:-", ct)
 #this is the connectioni strings to connect to a database server
 #engine = create_engine('postgresql:')
 
-
 print("connected")
+#this is the pat tot he incoming file
 input_file = r"C:\Projects\GitHub\CarbonSafe_DataConversion\Sample_Data\Working11-30-23.xlsx"
 
 orignal_df = pd.read_excel(input_file, sheet_name='WPForms')
