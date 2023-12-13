@@ -180,3 +180,4 @@ df_pipeline_new.to_sql('pipeline', engine)
 endtime = datetime.datetime.now()
 print("Time", endtime-starttime) '''
 
+df_main.to_csv('main.csv')
